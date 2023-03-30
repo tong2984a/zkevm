@@ -1,0 +1,42 @@
+{
+  "game_1_check_wallets" :
+    {
+      "hostAddress" : "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+      "hostName" : "Hardhat#1",
+      "player1Address" : "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+      "player1Name" : "Hardhat#1",
+      "player2Address" : "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+      "player2Name" : "Hardhat#2",
+      "player3Address" : "0xa0Ee7A142d267C1f36714E4a8F75612F20a79720",
+      "player3Name" : "Hardhat#9",
+      "player4Address" : "0xFABB0ac9d68B0B445fB7357272Ff202C5651694a",
+      "player4Name" : "Hardhat#12",
+      "player5Address" : "0x3B67b2e6806233C79b109577B361E9d35c0cd397",
+      "player5Name" : "SelfServeNFT",
+      "player6Address" : "0x936A93DcaD18374Cf1912a1f43e9af8fBd96b874",
+      "player6Name" : "Greed"
+    },
+  "game_2_join_game" :
+    {
+      "player1Address" : "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+      "player1Name" : "Hardhat#1",
+      "value_in_ether" : 0.1
+    },
+  "game_3_start_game_stop_enroll" :
+    {
+    },
+  "game_4_declare_winner" :
+    {
+      "hostAddress" : "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+      "hostName" : "Hardhat#1",
+      "player1Address" : "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+      "player1Name" : "Hardhat#1",
+      "player2Address" : "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+      "player2Name" : "Hardhat#2"
+    },
+  "game_5_withdraw" :
+    {
+      "player1Address" : "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+      "player1Name" : "Hardhat#1"
+    }
+}
